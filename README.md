@@ -268,6 +268,6 @@ The project demonstrates practical experience in Business Intelligence, Data Vis
 
 **Aspiring Data Analyst  | SQL | Power BI | Excel**
 
-GitHub: https://github.com/santhoshimishra
+🔗 GitHub: [Santhoshi Mishra](https://github.com/santhoshimishra)
 
-LinkedIn: https://www.linkedin.com/in/santhoshimishra
+🔗 LinkedIn: [Santhoshi Mishra](https://www.linkedin.com/in/santhoshimishra)
